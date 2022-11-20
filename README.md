@@ -1,5 +1,5 @@
 # Java OOP Demo
-Engin Demiroğ, Java Kursu, Hafta-2 (Ödev) Java OOP Çalışması
+_Engin Demiroğ, Java Kursu, Hafta-2 (Ödev) Java OOP Çalışması_
  
 **Gereksinimler:**
 - Kodlama.io sitesine gidiniz.
